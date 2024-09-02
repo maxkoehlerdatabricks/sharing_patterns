@@ -1,0 +1,18 @@
+We write one or several blogs and complete the code for teh solution accelerator.
+
+- Operational Systems → Lakehouse
+- Sharing, Enablement, data Literacy
+- How to share Iceberg tables?
+- Sharing patterns
+      - Within Metastore
+      -   Architecture
+      -   Authentication
+      -   Code Snippets + Explanation
+      - Egress Costs vs Compute Costs
+  - D2D
+      - Same as above
+  - Lakehouse Federation
+      - Same as above
+  - D2O 
+      - Same as above, just with a speacial focus on managing the "access" files, i.e. the file that is downloaded
+- Closing - Summary und Outlook

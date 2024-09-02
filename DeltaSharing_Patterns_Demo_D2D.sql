@@ -6,7 +6,7 @@
 -- COMMAND ----------
 
 -- MAGIC %md
--- MAGIC
+-- MAGIC <img src="https://github.com/maxkoehlerdatabricks/sharing_patterns/blob/main/Pictures/D2D_sharing_patterns_authentication.png?raw=true" width=100%>
 
 -- COMMAND ----------
 
@@ -243,7 +243,7 @@ select * from max_shared_data.sharing_patterns.plant1_material_number_demand_vie
 
 -- COMMAND ----------
 
---DROP CATALOG IF EXISTS max_shared_data CASCADE;
+ --DROP CATALOG IF EXISTS max_shared_data CASCADE;
 --DROP CATALOG IF EXISTS max_demos_delta_sharing CASCADE;
 --DROP SHARE IF EXISTS plant_1_share;
 --DROP SHARE IF EXISTS plant_2_share;
